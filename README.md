@@ -1,9 +1,11 @@
-# Skidge — Arduino Smart Dustbin
+# Intelligent Waste Disposal System
+
+An Arduino-based smart dustbin that detects humans and waste using ultrasonic sensors, provides audio feedback, and uses expressive OLED eyes to communicate its state — encouraging proper waste disposal through interactive behaviour.
 
 ## Files
 
 ### `overall-code.ino` — Main Production Code
-The complete integrated firmware for the Skidge smart dustbin.
+The complete integrated firmware for the Intelligent Waste Disposal System.
 
 **Hardware:**
 - Arduino Uno
