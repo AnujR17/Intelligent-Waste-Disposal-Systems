@@ -4,7 +4,7 @@ An Arduino-based smart dustbin that detects humans and waste using ultrasonic se
 
 ## Files
 
-### `overall-code.ino` — Main Production Code
+### `main.ino` — Main Production Code
 The complete integrated firmware for the Intelligent Waste Disposal System.
 
 **Hardware:**
